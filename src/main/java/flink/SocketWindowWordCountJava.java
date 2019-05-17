@@ -18,7 +18,7 @@ import org.apache.flink.util.Collector;
  * 需要实现：每隔1秒对最近2秒内的数据进行计算
  */
 
-public class SocketWindowWordCount {
+public class SocketWindowWordCountJava {
 
   public static void main(String[] args) throws Exception {
 
